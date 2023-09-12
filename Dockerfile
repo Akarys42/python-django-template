@@ -1,4 +1,4 @@
-FROM python:3.10
+FROM python:3.11
 
 ENV PIP_NO_CACHE_DIR=false\
     POETRY_VIRTUALENVS_CREATE=false
